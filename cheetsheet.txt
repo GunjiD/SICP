@@ -1,0 +1,2 @@
+Ctrl+cを押したあとにShift+gでGaucheを書くモードにします。
+閉じカッコ*3のところでCtrl+xを押したあとにCtrl+eを押す
